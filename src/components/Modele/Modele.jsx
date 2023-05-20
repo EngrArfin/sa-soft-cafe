@@ -23,9 +23,14 @@ const Modele = () => {
             </div>
             <div className='cart-container'>
                 <p className='col'>Spend time on read: {}177min</p>
-                <div >
+                <div className='summary'>
                     <h3>Bookmarked Blogs: {} 8</h3>
-                    <p>Here</p>
+                    <div className='add'>
+                        <p>hello</p>
+                        <p>hello</p>
+                        <p>hello</p>
+                        <p>hello</p>
+                    </div>
                     
                 </div>
                 

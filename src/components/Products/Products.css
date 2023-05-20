@@ -1,10 +1,48 @@
 .product{
-    width: 845px;
-    height: 821px;
+    width: 645px;
+    height: 580px;
     
 }
 .product img{
     width: 745px;
     height: 400px;
     border-radius: 10px;
+}
+.user{
+    width: 50px;
+    display: flex;
+
+}
+
+.user img{
+    position: center;
+    min-width: 100%;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    
+
+}
+.user h3{
+    justify-content: space-between;
+    width: 146px;
+    height: 24px;
+    
+    
+}
+.icon{
+    width: 40px;
+    display: flex;
+}
+.icon img{
+    padding-right: 400px;
+    min-width: 100%;
+    border-radius: 50%;
+    height: 20px;
+    width: 15px;
+
+}
+.usericon{
+    display: flex;
+    justify-content: space-between;
 }

@@ -3,6 +3,12 @@
     grid-template-columns: 4fr 1fr;
 }
 
+.cart-container {
+    width: 390px;
+    left: 1189px;
+    
+
+}
 .cart-container p{
     color: #3621d3;
     font-weight: bold;
@@ -21,4 +27,22 @@ p.col {
     margin-top: 32px;
     padding: 10px;
 }
-   
+.summary{
+    position: absolute;
+    width: 411px;
+    height: 1352px;
+    left: 1189px;
+    top: 180px;
+    background: rgba(138, 136, 136, 0.141);
+    border-radius: 10px;
+}
+.summary h3{
+    padding-left: 30px;
+}
+
+.add{
+    padding-left: 30px;
+}
+.add p{
+    padding: 10px; 
+}

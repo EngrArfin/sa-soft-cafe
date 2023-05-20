@@ -1,32 +1,46 @@
 [
   {
-    "img": "https://img.freepik.com/free-vector/networking-scheme-isometric-data-exchange-transfer-data-from-computer-server_39422-892.jpg?w=826&t=st=1684550336~exp=1684550936~hmac=f8c8de81aef2c0b92e79e7ae2dca128221febf4d110fca0c6303dc7e95c5b2c0",
-    "id": "64683fa45c913408e8e293bb",
-    "price": 52,
-    "name": "Lillie Greene"
+    "id": "16100345",
+    "img":"https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1684579673~exp=1684580273~hmac=ed9fbe84d91f79368c2fa6cf06841e6b0d4000012eab64777187f2e57dec1fe0",
+    "user": "https://img.freepik.com/free-photo/front-view-young-businessman-office-clothing_23-2148763859.jpg?w=826&t=st=1684571376~exp=1684571976~hmac=f5ce847b54c93865920e0a65ebfa0b3e3e688ccc7f9b7673426f0effa8b86eff",
+    "time": "03 min read",
+    "icon": "https://cdn-icons-png.flaticon.com/512/110/110734.png?w=740&t=st=1684573349~exp=1684573949~hmac=6e3dbf1a77d0ad50e0cebf99f52e9fe6875d30fcaec430ad45dd0f76a5ecdaca",
+    "name": "Shakib",
+    "title": "How to get your first job as a self-taught programmer",
+    "button": "Mark as read"
+    
   },
   {
-    "img": "https://img.freepik.com/free-vector/networking-scheme-isometric-data-exchange-transfer-data-from-computer-server_39422-892.jpg?w=826&t=st=1684550336~exp=1684550936~hmac=f8c8de81aef2c0b92e79e7ae2dca128221febf4d110fca0c6303dc7e95c5b2c0",
-    "id": "64683fa4afe0472afee71bac",
-    "price": 59,
-    "name": "Esther Hopper"
+    "id": "13100345",
+    "img":"https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=996&t=st=1684579719~exp=1684580319~hmac=b94e3600920bfe84f1a668766ca82389961b56f66934c54231ef6a7c05cc4d9d",
+    "user": "https://img.freepik.com/free-photo/front-view-young-businessman-office-clothing_23-2148763859.jpg?w=826&t=st=1684571376~exp=1684571976~hmac=f5ce847b54c93865920e0a65ebfa0b3e3e688ccc7f9b7673426f0effa8b86eff",
+    "time": "06 min read",
+    "icon": "https://cdn-icons-png.flaticon.com/512/110/110734.png?w=740&t=st=1684573349~exp=1684573949~hmac=6e3dbf1a77d0ad50e0cebf99f52e9fe6875d30fcaec430ad45dd0f76a5ecdaca",
+    "name": "Nazmul",
+    "title": "How to get your first job as a self-taught programmer",
+    "button": "Mark as read"
+    
+  },
+     
+  {
+    "id": "16400345",
+    "img":"https://img.freepik.com/free-vector/cloud-warehouse-data-copy-storage-server-room-connection-with-cloud_39422-568.jpg?w=826&t=st=1684550185~exp=1684550785~hmac=05e5f34f39be905a62ff1a9acd010f5ea8d366b2d3b29709a3c500010a7ec26b",
+    "user": "https://img.freepik.com/free-photo/front-view-young-businessman-office-clothing_23-2148763859.jpg?w=826&t=st=1684571376~exp=1684571976~hmac=f5ce847b54c93865920e0a65ebfa0b3e3e688ccc7f9b7673426f0effa8b86eff",
+    "time": "02 min read",
+    "icon": "https://cdn-icons-png.flaticon.com/512/110/110734.png?w=740&t=st=1684573349~exp=1684573949~hmac=6e3dbf1a77d0ad50e0cebf99f52e9fe6875d30fcaec430ad45dd0f76a5ecdaca",
+    "name": "Shuvo",
+    "title": "How to get your first job as a self-taught programmer",
+    "button": "Mark as read"
+ 
   },
   {
-    "img": "https://img.freepik.com/free-vector/networking-scheme-isometric-data-exchange-transfer-data-from-computer-server_39422-892.jpg?w=826&t=st=1684550336~exp=1684550936~hmac=f8c8de81aef2c0b92e79e7ae2dca128221febf4d110fca0c6303dc7e95c5b2c0",
-    "id": "64683fa4f080b590da9efb8c",
-    "price": 29,
-    "name": "Edna Ellison"
-  },
-  {
-    "img": "https://img.freepik.com/free-vector/networking-scheme-isometric-data-exchange-transfer-data-from-computer-server_39422-892.jpg?w=826&t=st=1684550336~exp=1684550936~hmac=f8c8de81aef2c0b92e79e7ae2dca128221febf4d110fca0c6303dc7e95c5b2c0",
-    "id": "64683fa46b2afec566d85fb2",
-    "price": 23,
-    "name": "Middleton Larsen"
-  },
-  {
-    "img": "https://img.freepik.com/free-vector/networking-scheme-isometric-data-exchange-transfer-data-from-computer-server_39422-892.jpg?w=826&t=st=1684550336~exp=1684550936~hmac=f8c8de81aef2c0b92e79e7ae2dca128221febf4d110fca0c6303dc7e95c5b2c0",
-    "id": "64683fa446df5cd227085a45",
-    "price": 27,
-    "name": "Darlene Porter"
+    "id": "36100345",
+    "img":"https://as2.ftcdn.net/v2/jpg/05/98/53/85/1000_F_598538569_XFpdpCmCtiDYjnHOxQF4kz4bhKbidrWT.jpg",
+    "user": "https://img.freepik.com/free-photo/medium-shot-man-posing-studio_23-2150275677.jpg?w=826&t=st=1684571473~exp=1684572073~hmac=61a812509d41cd12f79bee9e1f32faf326fa1684aab9d531a8843d247719b173",
+    "time": "09 min read",
+    "icon": "https://cdn-icons-png.flaticon.com/512/110/110734.png?w=740&t=st=1684573349~exp=1684573949~hmac=6e3dbf1a77d0ad50e0cebf99f52e9fe6875d30fcaec430ad45dd0f76a5ecdaca",
+    "name": "Arfin ",
+    "title": "How to get your first job as a self-taught programmer",
+    "button": "Mark as read"
   }
 ]
