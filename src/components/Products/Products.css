@@ -1,0 +1,10 @@
+.product{
+    width: 845px;
+    height: 821px;
+    
+}
+.product img{
+    width: 745px;
+    height: 400px;
+    border-radius: 10px;
+}

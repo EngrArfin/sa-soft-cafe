@@ -1,0 +1,24 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.cart-container p{
+    color: #3621d3;
+    font-weight: bold;
+
+}
+.products-container{
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    gap: 45px;
+    margin-top: 32px;
+    margin-left: 320px;
+    margin-right: 24px;
+}
+p.col {
+    border-style: ridge;
+    margin-top: 32px;
+    padding: 10px;
+}
+   
