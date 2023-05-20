@@ -26,9 +26,7 @@ const Modele = () => {
                 <div >
                     <h3>Bookmarked Blogs: {} 8</h3>
                     <p>Here</p>
-                    <p>Here</p>
-                    <p>Here</p>
-                    <p>Here</p>
+                    
                 </div>
                 
             </div>
