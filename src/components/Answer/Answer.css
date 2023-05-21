@@ -1,0 +1,14 @@
+.ans{
+    display: inline;
+    color: rgb(0, 0, 0);
+    background-color: rgb(3, 65, 44);
+    
+}
+.ans h3{
+    margin-top: 60px;
+    padding: 20px;
+}
+.ans p{
+    padding: 20px;
+    padding-top: 2px;
+}
