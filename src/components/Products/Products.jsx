@@ -2,8 +2,11 @@ import React from 'react';
 import './Products.css'
 
 const Products = (props) => {
-    const {img, user, icon, name, title, button} = props.product;
+    
+    const {img, user, icon, name, title, button,} = props.product;
+    const handelAddToCart = props.handelAddToCart;
 
+    
     return (
         <div className='product'>
             <img src={img} alt=""/>
@@ -15,13 +18,12 @@ const Products = (props) => {
             <div className='icon'>
                 <p>05minread</p>
                 <img src={icon} alt="" />
+                
             </div>
         </div>
-        <h2>{title}</h2>
+         <h2 >{title}</h2>
         <p>#beganer #programming</p>
         <h4>{button}</h4>
-            
-            
         </div>
     );
 };
