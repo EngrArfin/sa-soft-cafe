@@ -22,7 +22,7 @@ const Products = (props) => {
             </div>
         </div>
          <h2 >{title}</h2>
-        <p>#beganer #programming</p>
+        <p> #programming</p>
         <h4>{button}</h4>
         </div>
     );
